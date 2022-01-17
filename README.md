@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @pomeranian91
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20YongWoo&fontSize=90)
+- 👋 Hi, I’m ChoYongWoo
 - 👀 I’m interested in HTML,CSS,Scss,Javascript,jquery,React,redux
-- 🌱 I’m currently learning Vue.js,node.js
+- 🌱 I’m currently learning Typescript,Vue.js,node.js
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me forking91@gmail.com
+
 
 <!---
 pomeranian91/pomeranian91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
