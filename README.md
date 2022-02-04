@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20YongWoo&fontSize=90)
 #
-<div align="center" >💻STACK</div>  
+<h2 align="center" >💻STACK</h2>  
 <br/>
 
 <div align="center">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"></div>
 
 #
-<div align="center">📫 forking91@gmail.com</div>
+<h4 align="center">📫 forking91@gmail.com</h4>
 
 
 
