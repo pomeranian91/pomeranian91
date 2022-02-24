@@ -14,7 +14,10 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"></div>
 
-#
+
+<img src="https://github-readme-stats.vercel.app/api?username=pomeranian91&show_icons=true&locale=en&theme=dark" alt="pomeranian91" width="345" height="165" />
+
+
 <h4 align="center">📫 forking91@gmail.com</h4>
 
 
