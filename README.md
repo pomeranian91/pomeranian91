@@ -1,15 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20YongWoo&fontSize=80)
-<h2 align="center" >💻STACK</h2>  
-
 <div align="center">
-
- 
-
 </div>
 <div align="center">  
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"></div>
+</div>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=pomeranian91&show_icons=true&locale=en&theme=dark" alt="pomeranian91" width="345" height="165" />
